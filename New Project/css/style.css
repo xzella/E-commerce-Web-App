@@ -1,0 +1,23 @@
+img {
+    width: 200px;
+    height: 100px;
+}
+h1{
+    color: black;
+}
+#subheader{
+    color: black;
+}
+#sub img{
+    width: 285px;
+    height: 280px;
+}
+
+#sub{
+    border-width: 5px;
+}
+
+iframe{
+    height: 300px;
+    width: 250px;
+}
